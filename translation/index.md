@@ -1,4 +1,4 @@
-## Translation
+### Translation
 
 - Prologue
     - [Introduction](/docs/{{version}}/foundation/introduction)

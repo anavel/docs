@@ -1,4 +1,4 @@
-## Gettext
+### Gettext
 
 - Prologue
     - [Introduction](/docs/{{version}}/foundation/introduction)
