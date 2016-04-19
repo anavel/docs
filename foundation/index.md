@@ -4,6 +4,12 @@
 - Setup
     - [Installation](/docs/{{version}}/foundation/installation)
     - [Configuration](/docs/{{version}}/foundation/configuration)
-- Available modules
-
-- Make your own module
+- Available Modules
+    - [CRUD](/docs/{{version}}/crud/introduction)
+    - [Gettext](/docs/{{version}}/gettext/introduction)
+    - [Translation](/docs/{{version}}/translation/introduction)
+- Module Development
+    - Introduction
+    - Module Provider
+    - Routing
+    - Resources
