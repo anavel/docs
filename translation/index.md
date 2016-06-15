@@ -1,7 +1,7 @@
 ### Translation
 
 - Prologue
-    - [Introduction](/docs/{{version}}/foundation/introduction)
+    - [Introduction](/docs/{{version}}/translation/introduction)
 - Setup
-    - [Installation](/docs/{{version}}/foundation/installation)
-    - [Configuration](/docs/{{version}}/foundation/configuration)
+    - [Installation](/docs/{{version}}/translation/installation)
+    - [Configuration](/docs/{{version}}/translation/configuration)

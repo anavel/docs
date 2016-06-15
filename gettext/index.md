@@ -1,7 +1,7 @@
 ### Gettext
 
 - Prologue
-    - [Introduction](/docs/{{version}}/foundation/introduction)
+    - [Introduction](/docs/{{version}}/gettext/introduction)
 - Setup
-    - [Installation](/docs/{{version}}/foundation/installation)
-    - [Configuration](/docs/{{version}}/foundation/configuration)
+    - [Installation](/docs/{{version}}/gettext/installation)
+    - [Configuration](/docs/{{version}}/gettext/configuration)

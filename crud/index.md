@@ -1,10 +1,10 @@
 ### CRUD
 
 - Prologue
-    - [Introduction](/docs/{{version}}/foundation/introduction)
+    - [Introduction](/docs/{{version}}/crud/introduction)
 - Setup
-    - [Installation](/docs/{{version}}/foundation/installation)
-    - [Configuration](/docs/{{version}}/foundation/configuration)
+    - [Installation](/docs/{{version}}/crud/installation)
+    - [Configuration](/docs/{{version}}/crud/configuration)
 - Models configuration
 
 - Model controller extension
