@@ -109,7 +109,7 @@ return [
 
 The Anavel authentication integrates with the built in Laravel authentication, check the [official documentation](https://laravel.com/docs/authentication). 
 
-The only Anavel particular thing that you must to do is implement the ```Anavel\Foundation\Contracts\Authenticatable interface``` with your ```User``` model.
+The only Anavel particular thing that you must to do is implement the ```Anavel\Foundation\Contracts\Authenticatable``` interface with your ```User``` model.
 
 ### <a name="dashboard"></a> Dashboard
 
