@@ -82,7 +82,7 @@ return [
 | **list_max_results** | By default listings display a maximum of 15 rows, but you can customize it with this config key | |
 | **uploads_path** | The folder (under public) on which your resources files will be uploaded | |
 | **text_editor** | The WYSIWYG to use | |
-| **models** | This contains all the Eloquent models configuration that will be managed by this module | Check the [models](#models) section to see more details |
+| **models** | This contains all the Eloquent models configuration that will be managed by this module | Check the [model](#model) section to see more details |
 | **modelsGroups** | With this key you can group model CRUD access on the admin | Check the [menu](#menu) section to see more details |
 
 ### <a name="model"></a> Model
