@@ -8,6 +8,7 @@
     - [CRUD](/docs/{{version}}/crud/introduction)
     - [Gettext](/docs/{{version}}/gettext/introduction)
     - [Translation](/docs/{{version}}/translation/introduction)
+    - [Uploads](/docs/{{version}}/uploads/introduction)
 - Module Development
     - Introduction
     - Module Provider
