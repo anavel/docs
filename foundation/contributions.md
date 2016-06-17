@@ -36,3 +36,5 @@ If you discover a security vulnerability within Anavel, please send an e-mail to
 ### <a name="coding-style"></a> Coding Style
 
 Anavel follows the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standard and the [PSR-4](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md) autoloading standard.
+
+If your code style isn't perfect, don't worry! StyleCI will automatically PR any style fixes into the Anavel repository after any pull requests are merged. This allows us to focus on the content of the contribution and not the code style.
